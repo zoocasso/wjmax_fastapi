@@ -1,1 +1,0 @@
-ssh -i "WAK_keypair2.pem" ubuntu@43.201.38.255
